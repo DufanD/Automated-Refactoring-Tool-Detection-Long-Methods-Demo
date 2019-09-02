@@ -51,7 +51,7 @@
     <repositories>
         <repository>
             <id>Automated-Refactoring-Tool-Detection</id>
-            <url>https://raw.github.com/zulffaza/Automated-Refactoring-Tool-Detection/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Detection/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
@@ -59,7 +59,7 @@
         </repository>
         <repository>
             <id>Automated-Refactoring-Tool-Refactoring</id>
-            <url>https://raw.github.com/zulffaza/Automated-Refactoring-Tool-Refactoring/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Refactoring/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
